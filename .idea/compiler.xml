@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-demo-sonar-master" />
         <module name="demo" />
+        <module name="springbootdemo" />
         <module name="Spring_Demo-master" />
         <module name="springdemofinal" />
       </profile>
@@ -18,6 +19,7 @@
       <module name="Spring-demo-sonar-master" options="-parameters" />
       <module name="Spring_Demo-master" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="springbootdemo" options="-parameters" />
       <module name="springdemofinal" options="-parameters" />
     </option>
   </component>
